@@ -1,0 +1,25 @@
+vendor,product,listed_price,usd_per_minute,note,vendor_source
+OpenAI,gpt-transcribe,$0.0045 / minute,0.0045,,https://developers.openai.com/api/docs/pricing
+OpenAI,gpt-4o-transcribe,$0.006 / minute,0.006,"Token rate: $2.50 input, $10 output per 1M",https://developers.openai.com/api/docs/pricing
+OpenAI,gpt-4o-mini-transcribe,$0.003 / minute,0.003,,https://developers.openai.com/api/docs/pricing
+OpenAI,gpt-4o-transcribe-diarize,$0.006 / minute,0.006,Speaker labels,https://developers.openai.com/api/docs/pricing
+OpenAI,Whisper,$0.006 / minute,0.006,,https://developers.openai.com/api/docs/pricing
+OpenAI,gpt-live-transcribe,$0.017 / minute,0.017,Realtime,https://developers.openai.com/api/docs/pricing
+OpenAI,gpt-realtime-whisper,$0.017 / minute,0.017,Realtime,https://developers.openai.com/api/docs/pricing
+Amazon,Transcribe (batch),$0.006 / minute,0.006,US East example rate; 60 free minutes a month for 12 months,https://aws.amazon.com/transcribe/pricing/
+Amazon,Transcribe (streaming),$0.01 / minute,0.01,US East example rate,https://aws.amazon.com/transcribe/pricing/
+Google Cloud,"Speech-to-Text V2, Standard",$0.016 / minute,0.016,"First 500,000 minutes a month",https://cloud.google.com/speech-to-text/pricing
+Google Cloud,"Speech-to-Text V2, Dynamic Batch",$0.003 / minute,0.003,,https://cloud.google.com/speech-to-text/pricing
+Deepgram,Nova-3 pre-recorded (monolingual),$0.0043 / minute,0.0043,Promotional rate; $200 free credit,https://deepgram.com/pricing
+Deepgram,Nova-3 pre-recorded (multilingual),$0.0052 / minute,0.0052,Promotional rate,https://deepgram.com/pricing
+Deepgram,Whisper Large pre-recorded,$0.0048 / minute,0.0048,Promotional rate,https://deepgram.com/pricing
+Deepgram,Nova-3 streaming (monolingual),$0.0048 / minute,0.0048,Promotional rate,https://deepgram.com/pricing
+Deepgram,Nova-3 streaming (multilingual),$0.0058 / minute,0.0058,Promotional rate,https://deepgram.com/pricing
+Deepgram,Flux streaming (English),$0.0065 / minute,0.0065,Promotional rate,https://deepgram.com/pricing
+Deepgram,Flux streaming (multilingual),$0.0078 / minute,0.0078,Promotional rate,https://deepgram.com/pricing
+AssemblyAI,STT-3.7,$0.21 / hour,0.0035,$50 free credits,https://www.assemblyai.com/pricing
+AssemblyAI,Universal-2,$0.15 / hour,0.0025,,https://www.assemblyai.com/pricing
+AssemblyAI,STT-3.7 Realtime,$0.30 / hour,0.005,Realtime,https://www.assemblyai.com/pricing
+AssemblyAI,Realtime-Agent,$0.45 / hour,0.0075,Realtime,https://www.assemblyai.com/pricing
+ElevenLabs,Scribe v3 / v2,$0.20 / hour,0.0033333333333333335,,https://elevenlabs.io/pricing/api
+ElevenLabs,Scribe v3 Live / v2 Realtime,$0.22 / hour,0.0036666666666666666,Realtime,https://elevenlabs.io/pricing/api

@@ -1,0 +1,79 @@
+vendor,product,listed_price,usd_per_gpu_hour,note,vendor_source
+Lambda,B200 (8x),$7.69 / GPU-hour,7.69,1x: $7.99; plus sales tax,https://lambda.com/pricing
+Lambda,H100 SXM (8x),$4.59 / GPU-hour,4.59,"1x SXM $4.89, 1x PCIe $3.79",https://lambda.com/pricing
+Lambda,A100 80GB (8x),$3.19 / GPU-hour,3.19,,https://lambda.com/pricing
+CoreWeave,B200 (8-GPU instance),$68.80 / instance-hour,8.6,,https://www.coreweave.com/pricing
+CoreWeave,H200 (8-GPU instance),$50.44 / instance-hour,6.305,,https://www.coreweave.com/pricing
+CoreWeave,H100 (8-GPU instance),$49.24 / instance-hour,6.155,,https://www.coreweave.com/pricing
+CoreWeave,A100 (8-GPU instance),$21.60 / instance-hour,2.7,,https://www.coreweave.com/pricing
+CoreWeave,L40S (8-GPU instance),$18.00 / instance-hour,2.25,,https://www.coreweave.com/pricing
+RunPod,B200 (Secure Cloud),$7.99 / hour,7.99,,https://www.runpod.io/pricing
+RunPod,B200 (Community Cloud),$5.98 / hour,5.98,,https://www.runpod.io/pricing
+RunPod,H200 (Secure Cloud),$5.29 / hour,5.29,,https://www.runpod.io/pricing
+RunPod,H200 (Community Cloud),$3.59 / hour,3.59,,https://www.runpod.io/pricing
+RunPod,H100 SXM (Secure Cloud),$4.39 / hour,4.39,,https://www.runpod.io/pricing
+RunPod,H100 SXM (Community Cloud),$2.69 / hour,2.69,,https://www.runpod.io/pricing
+RunPod,H100 PCIe (Secure Cloud),$2.89 / hour,2.89,,https://www.runpod.io/pricing
+RunPod,H100 PCIe (Community Cloud),$1.99 / hour,1.99,,https://www.runpod.io/pricing
+RunPod,A100 SXM (Secure Cloud),$2.19 / hour,2.19,,https://www.runpod.io/pricing
+RunPod,A100 SXM (Community Cloud),$1.39 / hour,1.39,,https://www.runpod.io/pricing
+RunPod,A100 PCIe (Secure Cloud),$2.09 / hour,2.09,,https://www.runpod.io/pricing
+RunPod,A100 PCIe (Community Cloud),$1.19 / hour,1.19,,https://www.runpod.io/pricing
+RunPod,L40S (Secure Cloud),$1.09 / hour,1.09,,https://www.runpod.io/pricing
+RunPod,L40S (Community Cloud),$0.79 / hour,0.79,,https://www.runpod.io/pricing
+RunPod,L4 (Secure Cloud),$0.69 / hour,0.69,,https://www.runpod.io/pricing
+RunPod,L4 (Community Cloud),$0.44 / hour,0.44,,https://www.runpod.io/pricing
+Nebius,B200,$8.50 / GPU-hour,8.5,,https://nebius.com/prices
+Nebius,H200,$5.40 / GPU-hour,5.4,,https://nebius.com/prices
+Nebius,H100,$4.50 / GPU-hour,4.5,,https://nebius.com/prices
+Nebius,L40S,from $1.55 / GPU-hour,1.55,Intel host; AMD host from $1.82,https://nebius.com/prices
+Together AI,H100 (GPU Clusters),$3.99 / GPU-hour,3.99,,https://www.together.ai/pricing
+Together AI,H200 (GPU Clusters),$5.99 / GPU-hour,5.99,,https://www.together.ai/pricing
+Together AI,B200 (GPU Clusters),$9.29 / GPU-hour,9.29,,https://www.together.ai/pricing
+Together AI,B300 (GPU Clusters),$11.49 / GPU-hour,11.49,,https://www.together.ai/pricing
+AWS,p5 H100 (Capacity Blocks),$5.970 / GPU-hour,5.97,"Reserved block, not on-demand",https://aws.amazon.com/ec2/capacityblocks/pricing/
+AWS,p5e H200 (Capacity Blocks),$6.866 / GPU-hour,6.866,"Reserved block, not on-demand",https://aws.amazon.com/ec2/capacityblocks/pricing/
+AWS,p5en H200 (Capacity Blocks),$7.895 / GPU-hour,7.895,"Reserved block, not on-demand",https://aws.amazon.com/ec2/capacityblocks/pricing/
+AWS,p6-b200 B200 (Capacity Blocks),$14.208 / GPU-hour,14.208,"Reserved block, not on-demand",https://aws.amazon.com/ec2/capacityblocks/pricing/
+AWS,p4de A100 (Capacity Blocks),$2.546 / GPU-hour,2.546,"Reserved block, not on-demand",https://aws.amazon.com/ec2/capacityblocks/pricing/
+DigitalOcean,H200,$4.47 / GPU-hour,4.47,,https://www.digitalocean.com/pricing/gpu-droplets
+DigitalOcean,H100,$4.41 / GPU-hour,4.41,,https://www.digitalocean.com/pricing/gpu-droplets
+DigitalOcean,L40S,$1.57 / GPU-hour,1.57,,https://www.digitalocean.com/pricing/gpu-droplets
+DigitalOcean,RTX 6000 Ada,$1.57 / GPU-hour,1.57,,https://www.digitalocean.com/pricing/gpu-droplets
+DigitalOcean,RTX 4000 Ada,$0.76 / GPU-hour,0.76,,https://www.digitalocean.com/pricing/gpu-droplets
+DigitalOcean,MI325X,$3.80 / GPU-hour,3.8,,https://www.digitalocean.com/pricing/gpu-droplets
+DigitalOcean,MI300X,$2.59 / GPU-hour,2.59,,https://www.digitalocean.com/pricing/gpu-droplets
+Vultr,B200,from $3.50 / GPU-hour,3.5,,https://www.vultr.com/pricing/
+Vultr,H100,from $2.30 / GPU-hour,2.3,,https://www.vultr.com/pricing/
+Vultr,A100,from $2.80 / GPU-hour,2.8,,https://www.vultr.com/pricing/
+Vultr,GH200,from $1.99 / GPU-hour,1.99,,https://www.vultr.com/pricing/
+Vultr,L40S,from $1.671 / GPU-hour,1.671,,https://www.vultr.com/pricing/
+Vultr,MI355X,from $2.59 / GPU-hour,2.59,,https://www.vultr.com/pricing/
+Vultr,MI325X,from $2.00 / GPU-hour,2,,https://www.vultr.com/pricing/
+Vultr,MI300X,from $1.85 / GPU-hour,1.85,,https://www.vultr.com/pricing/
+Hyperstack,B300,$7.40 / GPU-hour,7.4,,https://www.hyperstack.cloud/gpu-pricing
+Hyperstack,B200,$6.00 / GPU-hour,6,,https://www.hyperstack.cloud/gpu-pricing
+Hyperstack,H200 SXM,$3.99 / GPU-hour,3.99,,https://www.hyperstack.cloud/gpu-pricing
+Hyperstack,H100 SXM,$3.20 / GPU-hour,3.2,,https://www.hyperstack.cloud/gpu-pricing
+Hyperstack,H100 PCIe,$2.50 / GPU-hour,2.5,,https://www.hyperstack.cloud/gpu-pricing
+Hyperstack,A100 SXM,$1.60 / GPU-hour,1.6,,https://www.hyperstack.cloud/gpu-pricing
+Hyperstack,A100 PCIe,$1.35 / GPU-hour,1.35,,https://www.hyperstack.cloud/gpu-pricing
+Hyperstack,L40,$1.00 / GPU-hour,1,,https://www.hyperstack.cloud/gpu-pricing
+Hyperstack,RTX Pro 6000 SE,$1.85 / GPU-hour,1.85,,https://www.hyperstack.cloud/gpu-pricing
+Crusoe,B300,$8.96 / GPU-hour,8.96,$9.90 from 1 Dec 2026,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,$4.29 / GPU-hour,4.29,$5.40 from 1 Dec 2026,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100,$3.90 / GPU-hour,3.9,$4.50 from 1 Dec 2026,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 SXM,$2.30 / GPU-hour,2.3,,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 PCIe,$2.00 / GPU-hour,2,,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,$1.50 / GPU-hour,1.5,,https://www.crusoe.ai/cloud/pricing
+Crusoe,MI300X,$3.45 / GPU-hour,3.45,,https://www.crusoe.ai/cloud/pricing
+Jarvislabs,H200 SXM,$4.59 / GPU-hour,4.59,,https://jarvislabs.ai/pricing
+Jarvislabs,H100 SXM,$3.49 / GPU-hour,3.49,,https://jarvislabs.ai/pricing
+Jarvislabs,RTX Pro 6000 Blackwell,$2.19 / GPU-hour,2.19,,https://jarvislabs.ai/pricing
+Jarvislabs,A100 80GB,$1.49 / GPU-hour,1.49,,https://jarvislabs.ai/pricing
+Jarvislabs,A100 40GB,$0.89 / GPU-hour,0.89,,https://jarvislabs.ai/pricing
+Jarvislabs,L4,$0.44 / GPU-hour,0.44,,https://jarvislabs.ai/pricing
+Thunder Compute,H100 SXM,$3.20 / GPU-hour,3.2,,https://www.thundercompute.com/pricing
+Thunder Compute,A100 80GB,$1.09 / GPU-hour,1.09,,https://www.thundercompute.com/pricing
+Thunder Compute,L40,$0.79 / GPU-hour,0.79,,https://www.thundercompute.com/pricing
+Thunder Compute,RTX A6000,$0.35 / GPU-hour,0.35,,https://www.thundercompute.com/pricing

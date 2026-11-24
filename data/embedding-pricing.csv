@@ -1,0 +1,14 @@
+vendor,product,listed_price,usd_per_1m_tokens,note,vendor_source
+OpenAI,text-embedding-3-small,$0.02 / 1M tokens,0.02,,https://developers.openai.com/api/docs/pricing
+OpenAI,text-embedding-3-large,$0.13 / 1M tokens,0.13,,https://developers.openai.com/api/docs/pricing
+OpenAI,text-embedding-ada-002,$0.10 / 1M tokens,0.1,,https://developers.openai.com/api/docs/pricing
+Google,gemini-embedding-2,$0.20 / 1M text tokens,0.2,"Image $0.45, audio $6.50, video $12.00 per 1M; free tier free of charge",https://aistudio.google.com/docs/pricing
+Google,gemini-embedding-001,$0.15 / 1M tokens,0.15,Free tier free of charge,https://aistudio.google.com/docs/pricing
+Voyage AI,voyage-4-large,$0.12 / 1M tokens,0.12,Batch: 33% off,https://docs.voyageai.com/docs/pricing
+Voyage AI,voyage-4,$0.06 / 1M tokens,0.06,,https://docs.voyageai.com/docs/pricing
+Voyage AI,voyage-4-lite,$0.02 / 1M tokens,0.02,,https://docs.voyageai.com/docs/pricing
+Voyage AI,voyage-context-4,$0.12 / 1M tokens,0.12,,https://docs.voyageai.com/docs/pricing
+Voyage AI,voyage-code-4,$0.12 / 1M tokens,0.12,First 200M tokens free,https://docs.voyageai.com/docs/pricing
+Voyage AI,voyage-3.5,$0.06 / 1M tokens,0.06,,https://docs.voyageai.com/docs/pricing
+Voyage AI,voyage-3.5-lite,$0.02 / 1M tokens,0.02,,https://docs.voyageai.com/docs/pricing
+Voyage AI,voyage-3-large,$0.18 / 1M tokens,0.18,,https://docs.voyageai.com/docs/pricing
