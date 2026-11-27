@@ -2,7 +2,7 @@
 
 API list prices for AI models and GPU cloud rental, as CSV. Each row links the vendor page the price was read from and the page on [aiblogly.com](https://www.aiblogly.com) that tracks it.
 
-Snapshot: 24 November 2026. Prices change without notice; check the vendor page before relying on a figure. The live versions are updated on aiblogly.com.
+Snapshot: 24 November 2026 (embeddings: Cohere and Mistral added 27 November). Prices change without notice; check the vendor page before relying on a figure. The live versions are updated on aiblogly.com.
 
 | File | Rows | What it holds | Live page |
 |---|---|---|---|
@@ -10,7 +10,7 @@ Snapshot: 24 November 2026. Prices change without notice; check the vendor page 
 | `data/media-api-pricing.csv` | 148 | Image, video and audio generation models, price as the vendor lists it | [Video API pricing](https://www.aiblogly.com/ai-video-generation-api-pricing) |
 | `data/gpu-cloud-pricing.csv` | 78 | GPU rental per GPU-hour, 12 providers | [GPU cloud pricing](https://www.aiblogly.com/gpu-cloud-pricing) |
 | `data/speech-to-text-pricing.csv` | 24 | Transcription APIs, per minute | [Speech-to-text API pricing](https://www.aiblogly.com/speech-to-text-api-pricing) |
-| `data/embedding-pricing.csv` | 13 | Embedding APIs, per 1M tokens | [Embedding API pricing](https://www.aiblogly.com/embedding-api-pricing) |
+| `data/embedding-pricing.csv` | 17 | Embedding APIs, per 1M tokens | [Embedding API pricing](https://www.aiblogly.com/embedding-api-pricing) |
 
 ## Columns
 

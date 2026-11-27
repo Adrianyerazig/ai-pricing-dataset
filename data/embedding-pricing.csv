@@ -12,3 +12,7 @@ Voyage AI,voyage-code-4,$0.12 / 1M tokens,0.12,First 200M tokens free,https://do
 Voyage AI,voyage-3.5,$0.06 / 1M tokens,0.06,,https://docs.voyageai.com/docs/pricing
 Voyage AI,voyage-3.5-lite,$0.02 / 1M tokens,0.02,,https://docs.voyageai.com/docs/pricing
 Voyage AI,voyage-3-large,$0.18 / 1M tokens,0.18,,https://docs.voyageai.com/docs/pricing
+Cohere,Embed 5 Pro,$0.12 / 1M tokens,0.12,Text; image and fused inputs; 128K context,https://cohere.com/pricing
+Cohere,Embed 5 Fast,$0.08 / 1M tokens,0.08,,https://cohere.com/pricing
+Mistral,Mistral Embed,$0.10 / 1M tokens,0.10,8K context,https://docs.mistral.ai/models/mistral-embed-23-12
+Mistral,Codestral Embed,$0.15 / 1M tokens,0.15,For code; 8K context,https://docs.mistral.ai/models/codestral-embed-25-05
